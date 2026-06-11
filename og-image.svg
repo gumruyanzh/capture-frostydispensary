@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0e1116"/>
+  <rect x="40" y="40" width="1120" height="550" rx="24" fill="#161b22" stroke="#21262d" stroke-width="2"/>
+  <text x="100" y="200" font-family="Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#3fb950" letter-spacing="2">WEEDVADER</text>
+  <text x="100" y="300" font-family="Helvetica,Arial,sans-serif" font-size="64" font-weight="700" fill="#e6edf3">Frosty has closed</text>
+  <text x="100" y="370" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#8b949e">Encino · Panorama City · Venice · West LA</text>
+  <text x="100" y="540" font-family="Helvetica,Arial,sans-serif" font-size="24" fill="#8b949e">Find licensed California cannabis delivery →</text>
+</svg>
